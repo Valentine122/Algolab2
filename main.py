@@ -26,6 +26,6 @@ if __name__ == "__main__":
     first_file_out = 'IO/hamster1.out'
     first_result = main(first_file_in)
     
-    print(f'First hamsters result: {first_result}')
+    print(f'Hamsters result: {first_result}')
 
     output_data(first_file_out, str(first_result))
